@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="musci">Volume:</string>
+
+    <string name="song">Is this love</string>
+    <string name="autor">Bob Marley</string>
+    <string name="mintime">00:25</string>
+    <string name="maxtime">03:25</string>
+
+
+
+
+</resources>
